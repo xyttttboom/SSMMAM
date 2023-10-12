@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Jun 25 16:30:30 2019
-
-@author: mwa
-"""
 
 from torch import nn
 import torch
